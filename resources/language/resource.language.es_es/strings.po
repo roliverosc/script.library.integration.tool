@@ -298,7 +298,7 @@ msgstr "Renombrar automaticamente todos los Episodios usando metadatos"
 
 msgctxt "#32070"
 msgid "Staged %s Episodes"
-msgstr ""
+msgstr "Episodios %s en escena"
 
 msgctxt "#32071"
 msgid "Adding all %s episodes..."
@@ -310,320 +310,320 @@ msgstr "Añadidos todos los Episodios %s"
 
 msgctxt "#32073"
 msgid "Adding all %s episodes with metadata..."
-msgstr ""
+msgstr "Añadiendo todos los Episodios %s con metadatos..."
 
 msgctxt "#32074"
 msgid "All %s episodes with metadata added"
-msgstr ""
+msgstr "Añadidos todos los Episodios %s con metadatos"
 
 msgctxt "#32075"
 msgid "Renaming all %s episodes using metadata..."
-msgstr ""
+msgstr "Renombrando todos los Episodios %s usando metadatos..."
 
 msgctxt "#32076"
 msgid "All %s episodes renamed using metadata"
-msgstr ""
+msgstr "Renombrados todos los Episodios %s usando metadatos"
 
 msgctxt "#32077"
 msgid "Generating all %s metadata..."
-msgstr ""
+msgstr "Generando todos los metadatos %s..."
 
 msgctxt "#32078"
 msgid "All %s metadata created"
-msgstr ""
+msgstr "Creados todos los metadatos %s"
 
 msgctxt "#32079"
 msgid "Remove and block episode"
-msgstr ""
+msgstr "Eliminar y bloquear Episodio"
 
 msgctxt "#32080"
 msgid "Staged Episode Options"
-msgstr ""
+msgstr "Opciones Episodios en escena"
 
 msgctxt "#32081"
 msgid "Update all"
-msgstr ""
+msgstr "Actualizar todo"
 
 msgctxt "#32082"
 msgid "Remove all"
-msgstr ""
+msgstr "Eliminar todo"
 
 msgctxt "#32083"
 msgid "Synced Directories"
-msgstr ""
+msgstr "Directorios Sincronizados"
 
 msgctxt "#32084"
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 msgctxt "#32085"
 msgid "Synced Directory Options"
-msgstr ""
+msgstr "Opciones Directorios Sincronizados"
 
 msgctxt "#32086"
 msgid "Remove all synced directories"
-msgstr ""
+msgstr "Eliminar todos los directorios sincronizados"
 
 msgctxt "#32087"
 msgid "All synced directories removed"
-msgstr ""
+msgstr "Eliminados todos los directorios sincronizados"
 
 msgctxt "#32088"
 msgid "Are you sure?"
-msgstr ""
+msgstr "¿Estás seguro?"
 
 msgctxt "#32089"
 msgid "Getting all items from synced directories..."
-msgstr ""
+msgstr "Obteniendo todos los elementos desde directorios sincronizados..."
 
 msgctxt "#32090"
 msgid "Finding items to remove..."
-msgstr ""
+msgstr "Buscando elementos a eliminar..."
 
 msgctxt "#32092"
 msgid "Finding items to add..."
-msgstr ""
+msgstr "Buscando elementos a añadir..."
 
 msgctxt "#32093"
 msgid "%i items to remove. %i items to stage.  Proceed?"
-msgstr ""
+msgstr "%i elementos para eliminar. %i elementos para poner en escena. ¿Procedo?"
 
 msgctxt "#32094"
 msgid "Removing items..."
-msgstr ""
+msgstr "Eliminando elementos..."
 
 msgctxt "#32095"
 msgid "Staging items..."
-msgstr ""
+msgstr "Almacenando elementos en escena..."
 
 msgctxt "#32096"
 msgid "All synced directories updated"
-msgstr ""
+msgstr "Actualizados todos los directorios sincronizados"
 
 msgctxt "#32097"
 msgid "Add keyword"
-msgstr ""
+msgstr "Añadir palabra clave"
 
 msgctxt "#32098"
 msgid "Blocked Items"
-msgstr ""
+msgstr "Elementos bloqueados"
 
 msgctxt "#32099"
 msgid "Blocked Item Options"
-msgstr ""
+msgstr "Opciones Elementos Bloqueados"
 
 msgctxt "#32100"
 msgid "Unable to determine content.  Choose content type:"
-msgstr ""
+msgstr "Incapaz de determinar el contenido. Seleccione el tipo de contenido:"
 
 msgctxt "#32101"
 msgid "TV Show"
-msgstr ""
+msgstr "Serie TV"
 
 msgctxt "#32102"
 msgid "Movie"
-msgstr ""
+msgstr "Película"
 
 msgctxt "#32103"
 msgid "Item is already staged"
-msgstr ""
+msgstr "El elemento ya está en escena"
 
 msgctxt "#32104"
 msgid "Item is already managed"
-msgstr ""
+msgstr "El elemento ya está gestionado"
 
 msgctxt "#32105"
 msgid "Movie staged"
-msgstr ""
+msgstr "Películas en escena"
 
 msgctxt "#32106"
 msgid "%i new episodes staged.  %i were already staged, and %i were already managed"
-msgstr ""
+msgstr "%i nuevos Episodios en escena. %i ya estaban en escena, y %i ya estaban gestionados"
 
 msgctxt "#32107"
 msgid "%i new episodes staged"
-msgstr ""
+msgstr "%i nuevos Episodios en escena"
 
 msgctxt "#32108"
 msgid "TV Shows"
-msgstr ""
+msgstr "Series TV"
 
 msgctxt "#32109"
 msgid "Movies"
-msgstr ""
+msgstr "Películas"
 
 msgctxt "#32110"
 msgid "Current directory already synced.  Looking for new items..."
-msgstr ""
+msgstr "Directorio actual ya sincronizado.  Buscando nuevos elementos..."
 
 msgctxt "#32111"
 msgid "%i movies staged"
-msgstr ""
+msgstr "%i Películas en escena"
 
 msgctxt "#32112"
 msgid "All TV shows staged. %i episodes staged"
-msgstr ""
+msgstr "Todas las Series TV en escena. %i Episodios en escena"
 
 msgctxt "#32113"
 msgid "Keyword"
-msgstr ""
+msgstr "Palabra clave"
 
 msgctxt "#32114"
 msgid "Episode"
-msgstr ""
+msgstr "Episodio"
 
 msgctxt "#32115"
 msgid "Single TV Show"
-msgstr ""
+msgstr "Unica Serie TV"
 
 msgctxt "#32116"
 msgid "Single Movie"
-msgstr ""
+msgstr "Unica Película"
 
 msgctxt "#32117"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 msgctxt "#32118"
 msgid "Managed Folder"
-msgstr ""
+msgstr "Carpetas Gestionadas"
 
 msgctxt "#32119"
 msgid "No blocked items"
-msgstr ""
+msgstr "No hay elementos bloqueados"
 
 msgctxt "#32120"
 msgid "No synced directories"
-msgstr ""
+msgstr "No hay directorios sincronizados"
 
 msgctxt "#32121"
 msgid "All items are up-to-date"
-msgstr ""
+msgstr "Todos los elementos están actualizados"
 
 msgctxt "#32122"
 msgid "All items were successfully updated.  Please clean library and review staged items."
-msgstr ""
+msgstr "Todos los elementos fueron actualizados correctamente.  Por favor, limpie la biblioteca y revise los elementos en escena."
 
 msgctxt "#32123"
 msgid "Choose managed folder in settings"
-msgstr ""
+msgstr "Seleccione carpeta gestionada en Ajustes"
 
 msgctxt "#32124"
 msgid "Updating synced directory list..."
-msgstr ""
+msgstr "Actualizando lista de directorios sincronizados..."
 
 msgctxt "#32125"
 msgid "Getting all items in directory..."
-msgstr ""
+msgstr "Obteniendo todos los elementos en directorio..."
 
 msgctxt "#32126"
 msgid "Getting all items in %s..."
-msgstr ""
+msgstr "Obteniendo todos los elementos en %s"
 
 msgctxt "#32127"
 msgid "Configured managed folder"
-msgstr ""
+msgstr "Configurar Carpeta Gestionada"
 
 msgctxt "#32128"
 msgid "Synced Directories"
-msgstr ""
+msgstr "Directorios Sincronizados"
 
 msgctxt "#32129"
 msgid "Use TV show artwork if episode thumb is unavailable"
-msgstr ""
+msgstr "Usar artwork de la Serie TV si la miniatura del Episodio no esta disponible"
 
 msgctxt "#32130"
 msgid "Development"
-msgstr ""
+msgstr "Desarrollo"
 
 msgctxt "#32131"
 msgid "Run Test Suite"
-msgstr ""
+msgstr "Ejecutar Test Suite"
 
 msgctxt "#32132"
 msgid "Run Fuzzer"
-msgstr ""
+msgstr "Ejecutar Fuzzer"
 
 msgctxt "#32133"
 msgid "Updating addon settings..."
-msgstr ""
+msgstr "Actualizando ajustes del addon..."
 
 msgctxt "#32134"
 msgid "Add-on updated.  See change log for details."
-msgstr ""
+msgstr "Add-on actualizado.  Ver registro de cambios para detalles."
 
 msgctxt "#32135"
 msgid "Clean up movie metadata"
-msgstr ""
+msgstr "Limpiar metadatos de la Película"
 
 msgctxt "#32136"
 msgid "All metadata for movies cleaned"
-msgstr ""
+msgstr "Todos los metadatos para Películas fueron limpiados"
 
 msgctxt "#32137"
 msgid "Update TV shows"
-msgstr ""
+msgstr "Actualizar Series TV"
 
 msgctxt "#32138"
 msgid "Update movies"
-msgstr ""
+msgstr "Actualizar Películas"
 
 msgctxt "#32139"
 msgid "Max recursion when finding videos (0 for unlimited)"
-msgstr ""
+msgstr "Max. recursion al encontrar videos (0 para ilimitado)"
 
 msgctxt "#32140"
 msgid "Use custom managed folder"
-msgstr ""
+msgstr "Usar carpeta personalizada"
 
 msgctxt "#32141"
 msgid "Select managed folder"
-msgstr ""
+msgstr "Seleccionar carpeta"
 
 msgctxt "#32142"
 msgid "Use custom metadata folder"
-msgstr ""
+msgstr "Usar carpeta para metadatos"
 
 msgctxt "#32143"
 msgid "Select metadata folder"
-msgstr ""
+msgstr "Seleccionar carpeta"
 
 msgctxt "#32144"
 msgid "Enable development options"
-msgstr ""
+msgstr "Habilitar opciones de desarrollo"
 
 msgctxt "#32145"
 msgid "Reading all TV show metadata..."
-msgstr ""
+msgstr "Leyendo todos los metadatos para Series TV..."
 
 msgctxt "#32146"
 msgid "All TV show metadata read"
-msgstr ""
+msgstr "Consultar todos los metadatos para Series TV"
 
 msgctxt "#32147"
 msgid "Read all TV show metadata"
-msgstr ""
+msgstr "Leer todos los metadatos para Series TV"
 
 msgctxt "#32148"
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 msgctxt "#32149"
 msgid "Always"
-msgstr ""
+msgstr "Siempre"
 
 msgctxt "#32150"
 msgid "Only items with metadata"
-msgstr ""
+msgstr "Solo elementos con metadatos"
 
 msgctxt "#32151"
 msgid "Only items with episode ID"
-msgstr ""
+msgstr "Solo elementos con ID de Episodio"
 
 msgctxt "#32152"
 msgid "Add movies without staging"
-msgstr ""
+msgstr "Añadir Películas sin puesta en escena"
 
 msgctxt "#32153"
 msgid "Add TV show items without staging"
-msgstr ""
+msgstr "Añadir Serie TV sin puesta en escena"
