@@ -26,6 +26,7 @@
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Allows video add-on content to be integrated into your library.</summary>
+    <summary lang="es">Permite integrar el contenido de sus complementos de video con su biblioteca.</summary>
     <description lang="en">
 Provides options in the context menu that lets you add any movie or TV show from video plugins into your library.  These videos will show up in your library and play just like any other local file.
 
@@ -35,7 +36,18 @@ This tool gives you complete control over any custom metadata you want to use fo
 
 See the README for a full tutorial.
     </description>
+    <description lang="es">
+Ofrece opciones en el menú contextual que le permite agregar cualquier película o serie TV de los complementos de video a su biblioteca. Estos videos se mostrarán en su biblioteca y se reproducirán como cualquier otro archivo local.
+
+También puede sincronizar todos los videos de los complementos con un solo clic, así que los nuevos videos están disponibles automáticamente en tu biblioteca, y los viejos videos son eliminados.
+      
+Esta herramienta le brinda un control completo sobre los metadatos personalizados que desea usar para sus videos agregados desde complementos.
+
+Ver README para un completo tutorial.
+    </description>
     <disclaimer lang="en">Must run addon after version updates</disclaimer>
+    <disclaimer lang="es">Debe ejecutar el addon después de actualizaciones de versión</disclaimer>
+    
     <language></language>
     <platform>all</platform>
     <license>GPL v2.0</license>
